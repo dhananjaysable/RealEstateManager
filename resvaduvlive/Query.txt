@@ -1,0 +1,8 @@
+
+
+
+
+
+py manage_builtup_area.py "Residential_bifurcation_20251203_150420.xlsx" "residentialfloorDetails.xlsx"
+
+
